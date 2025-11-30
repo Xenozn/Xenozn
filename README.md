@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Salut, moi c’est **Bastien VEZIN**  
+### 🚀 Développeur Web • Passionné par la création d’applications et les nouvelles technologies
 
-<!--
-**Xenozn/Xenozn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 En formation en Bac +3 à 3iL Ingénieurs — avec 3 années d’expérience en développement web  
+🌍 Basé à **Chartres et Rambouillet**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Technos & Outils
+
+### 💻 Développement
+- HTML • CSS • LESS • JavaScript  
+- PHP • Laminas • Symfony • API Platform  
+- Bootstrap • Tailwind  
+- jQuery • AJAX • React • Angular  
+- MySQL • PostgreSQL • MongoDB  
+- Automatisation : N8N  
+
+---
+
+## 📸 Projets récents
+- Site pour photographe de mariage (slider, galerie, etc.) — [lien](https://maxsens.fr/)  
+- Site pour photographe d’iris — [lien](https://www.focus-iris.vezinbastien.fr/)  
+- Site regroupant plusieurs petits outils (générateur QR Code, hash bcrypt, etc.)  
+
+---
+
+## ⭐ En apprentissage
+- Symfony  
+- React  
+- Angular  
+- Pipeline CI/CD  
+
+---
+
+## 📬 Me contacter
+📧 **vezinbastien@gmail.com**  
+🌐 **[www.vezinbastien.com](https://vezinbastien.com/)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/bastien-vezin/)**  
